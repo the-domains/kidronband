@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kidronband]]></title>
-        <description><![CDATA[kidronband]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Official Site of Kidron]]></title>
+        <description><![CDATA[The Official Site of Kidron]]></description>
+        <link>https://thegrid.ai/kidronband/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 06:13:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 06:22:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kidronband/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Testing out this new system. 2016 is going to be a year of new things. New experiences, new methods and new horizons. Because, really, who wants to repeat the same thing over and over?</p>]]></description>
-            <link>undefined9b76dde8-e523-494c-a95b-da01143574f0/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6ce447d-a98e-4a51-80dd-325b00543d43.JPG">]]></description>
+            <link>https://thegrid.ai/kidronband/9b76dde8-e523-494c-a95b-da01143574f0/index.html</link>
             <guid isPermaLink="false">9b76dde8-e523-494c-a95b-da01143574f0</guid>
-            <pubDate>Mon, 15 Feb 2016 06:13:35 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 06:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
